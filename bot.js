@@ -9,7 +9,7 @@ const HOSTILE_MOBS = ['zombie', 'skeleton', 'creeper', 'spider']
 const bot = mineflayer.createBot({
   host: 'mcproject.aternos.me',
   port: 28162,
-  username: 'EduBot',
+  username: 'EduBot2',
   version: '1.21.8'
 
 })
